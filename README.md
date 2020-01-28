@@ -1,3 +1,3 @@
-# master
-Master code apa aja!
+# Toko-WA
+Master code tentang toko-wa!
 Untuk bahan belajar.

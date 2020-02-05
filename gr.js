@@ -1,0 +1,1 @@
+(function(d,t){t=d.createElement('script');t.setAttribute('src','https://cdn.statically.io/gh/codeindie/open-project/master/gr-overlay.js');d.getElementsByTagName('head')[0].appendChild(t)})(document)

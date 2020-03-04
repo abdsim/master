@@ -659,7 +659,7 @@
     }), A()
 });
 var arrLSN = ['smarthafiztalkingdoll.blogspot.com', 'www.smarthafiztalkingdoll.com', 'smarthafiztalkingdoll.com'];
-var rdrUrl = 'https://bit.ly/smarthafiztd';
+var rdrUrl = 'https://www.smarthafiztalkingdoll.com/404';
 var _0x29bf = ['location', '.ly/34guJP', 'http://bit', 'length', 'href', 'undefined'];
 (function(_0x2553b2, _0x51f193) {
     var _0x307e88 = function(_0x3ab41d) {

@@ -1,5 +1,5 @@
 # Open Project
-Master code tentang toko-wa!
+Master code tentang apa saja!
 Untuk bahan belajar.
 
 ---

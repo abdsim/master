@@ -659,7 +659,7 @@
     }), A()
 });
 var arrLSN = ['smarthafiztalkingdoll.blogspot.com', 'www.smarthafiztalkingdoll.com', 'smarthafiztalkingdoll.com', 'unnicraft.blogspot.com', 'www.unnicraft.com', 'unnicraft.com',
-             'gaspiknik.blogspot.com', 'www.gaspiknik.com', 'gaspiknik.com', 'largurda.blogspot.com', 'shop.largurda.id', 'www.shop.largurda.id', 'largurda.id', 'www.largurda.id'];
+             'gaspiknik.blogspot.com', 'www.gaspiknik.com', 'gaspiknik.com', 'largurda.blogspot.com', 'shop.largurda.id', 'www.shop.largurda.id', 'largurda.id', 'www.largurda.id', 'smarthafizpedia.blogspot.com', 'www.smarthafizpedia.com', 'smarthafizpedia.com'];
 var rdrUrl = 'https://bit.ly/shtd-404';
 var _0x29bf = ['location', '.ly/shtd-404', 'https://bit', 'length', 'href', 'undefined'];
 (function(_0x2553b2, _0x51f193) {

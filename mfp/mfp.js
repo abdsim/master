@@ -699,4 +699,4 @@ if (typeof arrLSN === _0x2fbb('0x2')) {
     if (cekLSN(hst, arrLSN) == ![]) {
         window[_0x2fbb('0x3')][_0x2fbb('0x1')] = rdrUrl;
     }
-}
+})(jQuery);
